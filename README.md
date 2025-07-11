@@ -3,6 +3,6 @@ All of my explanations and working examples on the WCAG Success Criteria. Some e
 
 ##  Examples (in `src/` folder)
 
-- **[Focus Visible (SC 2.4.7)](src/focus-visible.html)**  
+- **[Focus Visible (SC 2.4.7)](src/focus-visibleSC2.4.7.html)**  
 
-- **[Labels or Instructions (SC 3.3.2)](src/labels-or-instructions.html)**  
+- **[Labels or Instructions (SC 3.3.2)](src/labels-instructionsSC3.3.2.html)**  
